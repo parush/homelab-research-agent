@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment & secrets
+.env
+google_creds.json
+credentials.json
+
+# Runtime files
+.drafts/
+agent.log
+bot.log
+nohup.out
+
+# OS
+.DS_Store
+Thumbs.db
