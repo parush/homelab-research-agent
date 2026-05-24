@@ -1,0 +1,5 @@
+# Managed via Telegram bot
+Idempotency in etl world, idempotent infra
+lambda vs kafka architecture
+list of interview questions and answers for a staff data engineer role focusing on spark
+roles and responsibilities of staff data engineer Australia
